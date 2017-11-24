@@ -14,13 +14,8 @@ Testing can be achieved by executing ebs_test.py (python ebs_test.py).
 To run the script you can execute (python ebs.py). 
 
 # Requirements
-boto3 
-
-moto
-
-python 2.7.11
-
 ```
 $ pip install moto
 $ pip install boto3
 ```
+python version 2.7.11.
